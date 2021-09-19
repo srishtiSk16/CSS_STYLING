@@ -1,0 +1,14 @@
+Use this document to point out where in your site that you demonstrated the 7 required tasks. You can list the or write and simple paragraph.  
+
+• Color Palette
+• Font styling
+• Box model
+• Grid
+• Flexbox
+• Table 
+• Responsive (mobile/desktop)
+
+
+
+
+
