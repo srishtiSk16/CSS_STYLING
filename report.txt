@@ -1,14 +1,37 @@
 Use this document to point out where in your site that you demonstrated the 7 required tasks. You can list the or write and simple paragraph.  
 
 • Color Palette
+I have the used the color Palette and various colors in almost all the pages. One example of usage of color palette is
+in my styles1.css that is for the first trip.
+
 • Font styling
+I have used font styling like font-size, font family, text decorations in all the pages.
+
 • Box model
+
+I have used the box model in making the home page(index.html) where I have used various paddings, margins, borders to represent
+the use of box model.
+
 • Grid
+I have used the grid layout in all the 5 trip pages. There are aside, article tags that are put into the container class
+that uses  css grid layout.I have used the css grid to make two columns for the content of trips pages. the grid is present in all
+the  5 trip pages with styles.css respectively.
+
 • Flexbox
-• Table 
+I have demonstrated the use of flexbox in all the trip pages , where the statements of all the trip pages are put
+in a flexbox. Further, why travel with us page is also based on flexbox.
+
+• Table
+In all the departure tables I have used various styling properties to style my tables. I have given my tables
+a fixed layout, with some border colors , various paddings and font styles.
+
 • Responsive (mobile/desktop)
+I have made my website mobile friendly by including media queries and desktop friendly so that content comes on a
+regular page. I have used the mobile first designs and a link of meta tag in index.html. Further, to make sure I opened
+the page on a mobile and it looked mobile friendly as well. I have used this query (@media screen and (max-width: 600px))
+in one of the styling pages.
 
-
-
-
+Overall, I have used various css styling options in my home page and other pages beside the 7 things mentioned above.
+My css files are named as css1 , css2 for the website pages and I have named the 5 trips css as styles1, styles2.. styles5
+respectively.
 
