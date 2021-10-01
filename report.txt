@@ -27,8 +27,7 @@ a fixed layout, with some border colors , various paddings and font styles.
 
 • Responsive (mobile/desktop)
 I have made my website mobile friendly by including media queries and desktop friendly so that content comes on a
-regular page. I have used the mobile first designs and a link of meta tag in index.html. Further, to make sure I opened
-the page on a mobile and it looked mobile friendly as well. I have used this query (@media screen and (max-width: 600px))
+regular page as well. I have used the mobile first designs and a link of meta tag in all the pages. Further, to makesure I opened the page on a mobile and it looked mobile friendly as well. I have used this query (@media screen and (max-width: 600px))
 in one of the styling pages.
 
 Overall, I have used various css styling options in my home page and other pages beside the 7 things mentioned above.
